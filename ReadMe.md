@@ -32,11 +32,6 @@ Please note that Dialogue is built to use SQLExpress or MSSQL Server only. It ha
 
 We are always looking for feedback on improvements, bugs and new features so please give it a spin and let us know what you think. Dialogue is designed and developed by the team at [Aptitude](http://www.aptitude.co.uk)
 
-## Video ##
-
-I did a screenr a little while back, which gives a very quick overview of the package.
-
-[https://www.screenr.com/Zy0N](https://www.screenr.com/Zy0N)
 
 ## Installation ##
 
